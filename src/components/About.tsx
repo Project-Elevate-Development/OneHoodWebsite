@@ -9,12 +9,22 @@ const About = () => {
       bio: "Street-smart leader with deep community roots. Flip has been transforming lives in Newark for over a decade, using real talk and authentic relationships to guide youth toward success."
     },
     {
-      name: "Buddah", 
+      name: "Booda", 
       role: "Community Liaison",
       bio: "Wise counselor and conflict mediator. Buddah specializes in helping young people find peace within themselves and their communities, drawing from years of street experience."
     },
     {
       name: "Alif",
+      role: "Youth Coordinator",
+      bio: "Young but experienced coordinator who bridges the gap between staff and youth. Alif understands current street dynamics and helps young people navigate modern challenges."
+    },
+    {
+      name: "Jimmy Woo",
+      role: "Youth Coordinator",
+      bio: "Young but experienced coordinator who bridges the gap between staff and youth. Alif understands current street dynamics and helps young people navigate modern challenges."
+    },
+    {
+      name: "Akadoo",
       role: "Youth Coordinator",
       bio: "Young but experienced coordinator who bridges the gap between staff and youth. Alif understands current street dynamics and helps young people navigate modern challenges."
     }
