@@ -27,6 +27,20 @@ const AIMentor = () => {
       role: "Youth Coordinator", 
       personality: "Young but experienced, relates to current street situations and modern challenges.",
       avatar: "👤"
+    },
+    {
+      id: "jimmy",
+      name: "Jimmy Woo",
+      role: "Youth Coordinator",
+      personality: "Young but experienced coordinator who bridges the gap between staff and youth. Alif understands current street dynamics and helps young people navigate modern challenges.",
+      avatar: "👤"
+    },
+    {
+      id: "akadoo",
+      name: "Akadoo",
+      role: "Youth Coordinator",
+      personality: "Young but experienced coordinator who bridges the gap between staff and youth. Alif understands current street dynamics and helps young people navigate modern challenges.",
+      avatar: "👤"
     }
   ];
 
