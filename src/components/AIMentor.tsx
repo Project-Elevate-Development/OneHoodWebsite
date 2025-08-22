@@ -15,8 +15,8 @@ const AIMentor = () => {
       avatar: "👤"
     },
     {
-      id: "buddah", 
-      name: "Buddah",
+      id: "booda", 
+      name: "Booda",
       role: "Community Liaison",
       personality: "Wise and peaceful guide who helps resolve conflicts and find inner strength.",
       avatar: "👤"
